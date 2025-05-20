@@ -588,8 +588,8 @@ Variation. Genome Research, 9(8), 677-679.
 
 ## AI Acknolwedgement
 
-[\*\*Claude 3.7
-Sonnet](https://claude.ai/share/e01f22d2-5823-476b-9814-6e8fd0d6298c).
+[**Claude 3.7
+Sonnet**](https://claude.ai/share/e01f22d2-5823-476b-9814-6e8fd0d6298c).
 Claude was utilized as the first proof read of the paper. The model
 asked to not comment on the content of the paper but only to comment on
 the grammar and structure of the paper.
